@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on none so far
 - 📫 How to reach me. Email:ruakruger@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a serious procastination issue xD
+- ⚡ Fun fact: I enjoy coffee
 
 <!---
 aspectZA27/aspectZA27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
