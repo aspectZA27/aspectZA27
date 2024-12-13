@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/@aspectZA27=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/@aspectZA27&ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m Ruan Kruger (@aspectZA27)
 - 👀 I’m interested in computer technology and how things works and functions
 - 🌱 I’m currently learning Full stack development
