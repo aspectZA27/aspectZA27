@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruan Kruger (@aspectZA27)
 - 👀 I’m interested in computer technology and how things works and functions
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 I’m currently learning **Associates degree in computer science(starts June 19)
 - 💞️ I’m looking to collaborate on none so far
 - 📫 How to reach me. Email:ruakruger@gmail.com
 - 😄 Pronouns: He/Him
