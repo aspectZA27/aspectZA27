@@ -5,7 +5,6 @@
 - 📫 How to reach me. Email:ruakruger@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy coffee
-[![trophy](https://github-profile-trophy.vercel.app/aspectZA27ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 aspectZA27/aspectZA27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
